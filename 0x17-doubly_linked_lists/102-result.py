@@ -14,4 +14,4 @@ def largest_palindrome_product():
     return max_palindrome
 
 result = largest_palindrome_product()
-print("Largest palindrome made from the product of two 3-digit numbers:", result)
+print(result)
